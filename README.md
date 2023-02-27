@@ -1,7 +1,5 @@
 # AdressBook_SUNUM
-Merhaba, Address Book projesi İstanbul - Beşiktaş Wissen Akademi'de Öğrencilik yaptığım 680 saatlik süreçte 302 sınıfı ile birlikte yazdık.Bu projede Trendyol,Getir gibi uygulamalardaki adres ekleme bölümünden esinlendik. Amacımız adres kaydı yapmaktır. Ayrıca gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
-Bu projenin tüm hakları ben Betül Akşan'a, 302 sabah grubu sınıfının öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
